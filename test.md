@@ -31,3 +31,9 @@ _这是第一点要强调的_
 Use the `printf()` function.
 <http://wap.sogou.com>
 ![Alt text](http://dl.m.sogou.com/ios/reader/guanggao_12.jpg "Optional title")
+
+在代码区段内，`&` 和方括号**都**会被自动地转成 HTML 实体，这使得插入 HTML 原始码变得很容易，Markdown 会把下面这段：
+
+    Please don't use any `<blink>` tags.
+
+转为：
