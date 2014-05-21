@@ -11,11 +11,13 @@
 *  我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈。
 我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈我们来看看这是什么个垃圾效果，
 哈哈哈哈哈哈哈哈哈哈哈我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈我们来看看这是什么个垃圾效果，哈哈哈哈哈哈哈哈哈哈哈
+zahuishi
 
     for (int i = 0;i<10;i++){
         NSLog(@"%d",i);
     }
 
+caonima
 ***
 abc
 - - -
@@ -37,3 +39,14 @@ Use the `printf()` function.
     Please don't use any `<blink>` tags.
 
 转为：
+
+如果改成用链接名称的方式写：
+
+    I get 10 times more traffic from [Google][] than from
+    [Yahoo][] or [MSN][].
+
+      [google]: http://google.com/        "Google"
+      [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
+      [msn]:    http://search.msn.com/    "MSN Search"
+
+上面两种写法都会产生下面的 HTML。
